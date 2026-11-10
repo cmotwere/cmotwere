@@ -1,55 +1,67 @@
-Hi, I'm Charles Otwere 👋
-Full-Stack Django Developer | AI Agents & Multi-Agent Systems | Data Analytics | Business Intelligence Strategy
+# Hi, I'm Charles Otwere 👋
 
-M.S. Computer Information Systems & Business Analytics (WTAMU, 2027) | MBA | PGDip Marketing Management
+### Full-Stack Django Developer | AI Agents & Multi-Agent Systems | Data Analytics | Business Strategy
 
-Python · Django · SQL · Docker · Kubernetes · Google Cloud · LLM Agents
+**M.S. Computer Information Systems & Business Analytics (WTAMU, 2027) | MBA | PGDip Marketing Management**
+
+`Python` · `Django` · `SQL` · `Docker` · `Kubernetes` · `Google Cloud` · `LLM Agents`
 
 I build data-driven products that solve real operational problems, from package tracking for community housing to AI agents that help small businesses and public institutions make better decisions.
 
-Before moving into software, I spent a decade in marketing, sales, and product development with companies including Unilever Ghana, Wilmar Africa, and Assa Abloy. That background shapes how I build: I start with the business problem, then write the code.
+Before moving into software, I spent a decade in marketing, sales, and product development with companies including **Unilever Ghana**, **Wilmar Africa**, and **Assa Abloy**. That background shapes how I build: I start with the business problem, then write the code.
 
-🚀 Featured Projects
-📦 Mailroom Management System
+---
 
-An open-source, AI-assisted package tracking platform for community housing. Presented at the WTAMU Student Research Poster Session (December 2025), with an upgraded version in March 2026. Django · Python · AI
+## 🚀 Featured Projects
 
-📊 Cnapy
+### 📦 Mailroom Management System
+An open-source, AI-assisted package tracking platform for community housing. Presented at the WTAMU Student Research Poster Session (December 2025), with an upgraded version in March 2026.
+`Django` · `Python` · `AI`
 
-An AI-powered data analysis platform that turns raw business data into clear insights. Python · AI · Data Analytics
+### 📊 Cnapy
+An AI-powered data analysis platform that turns raw business data into clear insights.
+`Python` · `AI` · `Data Analytics`
 
-🏥 Agentic Early Warning System
+### 🗃️ CNAPY-IMMS
+An inventory management and monitoring system that tracks stock levels and movement in real time, so teams always know what they have and what needs reordering.
+`Python` · `Inventory Management` · `Web App`
 
-A research project using AI agents to flag financial distress in rural hospitals early, so they can act before it becomes a crisis. Python · Multi-Agent Systems · Research
+### 🏥 Agentic Early Warning System
+A research project using AI agents to flag financial distress in rural hospitals early, so they can act before it becomes a crisis.
+`Python` · `Multi-Agent Systems` · `Research`
 
-💧 Ogallala Decision Support System
+### 💧 Ogallala Decision Support System
+A multi-agent system to support groundwater conservation decisions for the Ogallala Aquifer.
+`Python` · `Multi-Agent Systems` · `Research`
 
-A multi-agent system to support groundwater conservation decisions for the Ogallala Aquifer. Python · Multi-Agent Systems · Research
+### 📒 Bookkeeping AI
+A Django SaaS with agentic AI that automates routine bookkeeping work for accounting firms.
+`Django` · `SaaS` · `AI Agents`
 
-📒 Bookkeeping AI
+---
 
-A Django SaaS with agentic AI that automates routine bookkeeping work for accounting firms. Django · SaaS · AI Agents
+## 🎯 Core Focus
 
-🗃️ CNAPY-IMMS
+**Full-Stack Development:** Django web applications, REST APIs, relational database design, deployment
 
-An inventory management and monitoring system that tracks stock levels and movement in real time, so teams always know what they have and what needs reordering. Python · Inventory Management · Web App
+**AI & Agentic Systems:** LLM-powered agents, multi-agent architectures, workflow automation
 
-🎯 Core Focus
+**Data & Analytics:** Data analysis, dashboards, decision support systems
 
-Full-Stack Development: Django web applications, REST APIs, relational database design, deployment
+**Cloud & DevOps:** Linux, Docker, Kubernetes, Google Cloud Platform
 
-AI & Agentic Systems: LLM-powered agents, multi-agent architectures, workflow automation
+---
 
-Data & Analytics: Data analysis, dashboards, decision support systems
+## 💼 Currently
 
-Cloud & DevOps: Linux, Docker, Kubernetes, Google Cloud Platform
+- 🎓 Pursuing an M.S. in Computer Information Systems & Business Analytics at West Texas A&M University
+- 🛠️ Running [Monaak Services](https://monaakservices.com), building custom software for small businesses
+- 🔬 Researching AI agents for healthcare finance and water conservation
+- 🤝 Student Member, INCOSE (North Texas Chapter)
+- 💡 Open to **Software Developer** and **Data Analyst** roles
 
-💼 Currently
-🎓 Pursuing an M.S. in Computer Information Systems & Business Analytics at West Texas A&M University
-🛠️ Running Monaak Services, building custom software for small businesses
-🔬 Researching AI agents for healthcare finance and water conservation
-🤝 Student Member, INCOSE (North Texas Chapter)
-💡 Open to Software Developer and Data Analyst roles
-📫 Connect With Me
+---
 
-🌐 charlesotwere.com · 💼 linkedin.com/in/charles-mensah-otwere · ✉️ cmotwere@gmail.com / cmotwere1@buffs.wtamu.edu
+## 📫 Connect With Me
+
+🌐 https://charlesotwere.com · 💼 linkedin.com/in/charles-mensah-otwere · ✉️ cmotwere@gmail.com / cmotwere1@buffs.wtamu.edu
