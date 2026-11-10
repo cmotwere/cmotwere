@@ -2,7 +2,7 @@
 
 ### Full-Stack Django Developer | AI Agents & Multi-Agent Systems | Data Analytics | Business Strategy
 
-**M.S. Computer Information Systems & Business Analytics (WTAMU, 2027) | MBA | PGDip Marketing Management**
+**M.S. Computer Information Systems & Business Analytics (WTAMU, 2027) | MBA | PGDip Marketing Management | BSc**
 
 `Python` · `Django` · `SQL` · `Docker` · `Kubernetes` · `Google Cloud` · `LLM Agents`
 
