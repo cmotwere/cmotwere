@@ -64,4 +64,4 @@ A Django SaaS with agentic AI that automates routine bookkeeping work for accoun
 
 ## 📫 Connect With Me
 
-🌐 https://charlesotwere.com · 💼 linkedin.com/in/charles-mensah-otwere · ✉️ cmotwere@gmail.com / cmotwere1@buffs.wtamu.edu
+🌐 https://charlesotwere.com · 💼 https://linkedin.com/in/charles-mensah-otwere · ✉️ cmotwere@gmail.com / cmotwere1@buffs.wtamu.edu
