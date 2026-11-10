@@ -1,6 +1,6 @@
 # Hi, I'm Charles Otwere 👋
 
-### Full-Stack Django Developer | AI Agents & Multi-Agent Systems | Data Analytics | Business Strategy
+### Full-Stack Django Developer | AI Agents & Multi-Agent Systems | Data Engineering & Analytics | Business Intelligence
 
 **M.S. Computer Information Systems & Business Analytics (WTAMU, 2027) | MBA | PGDip Marketing Management | BSc**
 
@@ -46,7 +46,7 @@ A Django SaaS with agentic AI that automates routine bookkeeping work for accoun
 
 **AI & Agentic Systems:** LLM-powered agents, multi-agent architectures, workflow automation
 
-**Data & Analytics:** Data analysis, dashboards, decision support systems
+**Data Engineering & Analytics:** Data pipelines, ETL, data cleaning and transformation, dashboards, decision support systems
 
 **Cloud & DevOps:** Linux, Docker, Kubernetes, Google Cloud Platform
 
